@@ -16,7 +16,8 @@ A curated list of visual relationship detection and related area (e.g. object de
 
 ### Visual Relationship Detection
 * Visual Relationship Detection posts  
-*[PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel Pairwise R-FCN]Hanwang Zhang et al.(https://arxiv.org/abs/1708.01956) [[offical code]](https://github.com/yjy941124/PPR-FCN)
+*[PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel Pairwise R-FCN](https://arxiv.org/abs/1708.01956)-Hanwang Zhang et al.[[offical code]](https://github.com/yjy941124/PPR-FCN)  
+
 
 ## Object Recognition
 
