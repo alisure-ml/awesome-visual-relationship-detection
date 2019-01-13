@@ -1,6 +1,6 @@
 # Awesome Visual Relationship Detection: ![Awesome](https://img.shields.io/david/peer/https://github.com/alisure-ml/awesome-visual-relationship-detection/ww.svg?colorB=green&label=VRD&logo=ww&logoColor=yellow)
 
-A curated list of visual relationship detection and related area (e.g. object detection) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
+A curated list of visual relationship detection and related area (e.g. object detection, scene graph) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 
 ## Contents
