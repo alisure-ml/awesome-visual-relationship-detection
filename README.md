@@ -13,9 +13,9 @@ A curated list of visual relationship detection and related area (e.g. object de
 
 
 ### Visual Relationship Detection
-* [Pixels to Graphs by Associative Embedding ](https://arxiv.org/pdf/1706.07365.pdf) Alejandro -et al.[[offical code]](https://github.com/princeton-vl/px2graph)
-* [Attentive Relational Networks for Mapping Images to Scene Graphs
-* ](https://arxiv.org/abs/1811.10696v1) Mengshi Qi et al.
+* `NIPS 2017` - [Pixels to Graphs by Associative Embedding ](https://arxiv.org/pdf/1706.07365.pdf) Alejandro -et al.[[offical code]](https://github.com/princeton-vl/px2graph)
+
+* `2018` - [Attentive Relational Networks for Mapping Images to Scene Graphs](https://arxiv.org/abs/1811.10696v1) Mengshi Qi et al.
 
 * `AAAI 2019` - [Large-Scale Visual Relationship Understanding](https://arxiv.org/abs/1804.10660) - Ji Zhang et al, AAAI 2019.
 
