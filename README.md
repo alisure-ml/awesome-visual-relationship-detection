@@ -49,4 +49,4 @@ To the extent possible under law, [ALISURE](https://github.com/alisure-ml/) has 
 
 
 ## Contributing
-Please read the [contribution guidelines](contributing.md). Then please feel free to send me [pull requests](https://github.com/alisure-ml/awesome-visual-relationship-detection/pulls) or email (562282219@qq.com) to add links. 
+Please feel free to send me [pull requests](https://github.com/alisure-ml/awesome-visual-relationship-detection/pulls) or email (562282219@qq.com) to add links. 
