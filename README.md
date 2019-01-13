@@ -15,8 +15,14 @@ A curated list of visual relationship detection and related area (e.g. object de
 
 
 ### Visual Relationship Detection
-* Visual Relationship Detection posts  
-*[PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel Pairwise R-FCN](https://arxiv.org/abs/1708.01956)-Hanwang Zhang et al.[[offical code]](https://github.com/yjy941124/PPR-FCN)  
+* [Visual Relationship Prediction via Label Clustering and Incorporation of Depth Information](https://arxiv.org/abs/1809.02945) - Hsuan-Kung Yang et al, ECCV 2018 workshop.
+
+* [Relation Networks for Object Detection](https://arxiv.org/abs/1711.11575) - Han Hu et al, CVPR 2018 oral paper, [[official MXNet code]](https://github.com/msracver/Relation-Networks-for-Object-Detection), [[pytorch]](https://github.com/heefe92/Relation_Networks-pytorch).
+
+
+### Scene Graph
+
+* [Neural Motifs: Scene Graph Parsing with Global Context](https://arxiv.org/abs/1711.06640) - Rowan Zellers et al, CVPR 2018, [[official pytorch=0.3.0 code]](https://github.com/rowanz/neural-motifs).
 
 
 ## Object Recognition
