@@ -69,7 +69,7 @@ A curated list of visual relationship detection and related area (e.g. object de
 * `IJCAI 2018` - [Representation Learning for Scene Graph Completion via Jointly Structural and Visual Embedding](https://www.ijcai.org/proceedings/2018/0132.pdf) - Hai Wan et al, IJCAI-18.
 
 * `ICCV 2017` - [Scene Graph Generation From Objects, Phrases and Region Captions](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Scene_Graph_Generation_ICCV_2017_paper.html) - Yikang Li et al, ICCV 2017.
-
+* `CVPR 2017` - [Scene Graph Generation by Iterative Message Passing](https://arxiv.org/pdf/1701.02426.pdf) - Danfei Xu et al, CVPR 2017.
 
 ### Video Visual Relation Detection
 
