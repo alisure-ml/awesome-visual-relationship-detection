@@ -70,6 +70,11 @@ A curated list of visual relationship detection and related area (e.g. object de
 * `ICCV 2017` - [Scene Graph Generation From Objects, Phrases and Region Captions](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Scene_Graph_Generation_ICCV_2017_paper.html) - Yikang Li et al, ICCV 2017.
 
 
+### Video Visual Relation Detection
+
+* `ACM MM 2017` - [Video Visual Relation Detection](http://lms.comp.nus.edu.sg/research/VidVRD/VidVRD-MM17.pdf) - Xindi Shang et al, 2017 ACM Multimedia Conference, [Video Visual Relation Detection](http://software.nju.edu.cn/rentw/publication/mm17-shangxd_pot.pdf)
+
+
 ### Dataset
 
 * `The Open Images Dataset V4`, `IJCV 2018` - [The Open Images Dataset V4: Unified image classification, object detection, and visual relationship detection at scale](https://arxiv.org/abs/1811.00982) - Alina Kuznetsova et al, IJCV 2018.
@@ -77,6 +82,8 @@ A curated list of visual relationship detection and related area (e.g. object de
 * `Visual Genome`, `2016` - [Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations](https://visualgenome.org/static/paper/Visual_Genome.pdf) - Ranjay Krishna et al, [official web] (https://visualgenome.org/).
 
 * `VRD`, `ECCV 2016` - [Visual Relationship Detection with Language Priors](https://cs.stanford.edu/people/ranjaykrishna/vrd/) - Lu et al, ECCV 2016 Oral.
+
+* `VidVRD`, `ACM MM 2017` - [Video Visual Relation Dataset](https://lms.comp.nus.edu.sg/research/VidVRD.html) - Xindi Shang et al, 2018 ACM Multimedia Conference.
 
 
 
