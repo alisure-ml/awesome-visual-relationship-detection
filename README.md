@@ -83,7 +83,7 @@ A curated list of visual relationship detection and related area (e.g. object de
 
 * `VRD`, `ECCV 2016` - [Visual Relationship Detection with Language Priors](https://cs.stanford.edu/people/ranjaykrishna/vrd/) - Lu et al, ECCV 2016 Oral.
 
-* `VidVRD`, `ACM MM 2017` - [Video Visual Relation Dataset](https://lms.comp.nus.edu.sg/research/VidVRD.html) - Xindi Shang et al, 2018 ACM Multimedia Conference.
+* `VidVRD`, `ACM MM 2017` - [Video Visual Relation Dataset](https://lms.comp.nus.edu.sg/research/VidVRD.html) - Xindi Shang et al, 2018 ACM Multimedia Conference, [VidVRD-helper](https://github.com/xdshang/VidVRD-helper).
 
 
 
