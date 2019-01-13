@@ -44,7 +44,7 @@ A curated list of visual relationship detection and related area (e.g. object de
 
 * `ICCV 2017` - [Visual Relationship Detection with Internal and External Linguistic Knowledge Distillation](https://arxiv.org/abs/1707.09423) - Ruichi Yu et al, ICCV 2017.
 
-* `ICCV 2017` - [Weakly-supervised learning of visual relations](https://arxiv.org/abs/1707.09472) - Julia Peyre et al, Computer Vision and Pattern Recognition, [[official Matlab code]](https://github.com/jpeyre/unrel).
+* `ICCV 2017` - [Weakly-supervised learning of visual relations](https://arxiv.org/abs/1707.09472) - Julia Peyre et al, ICCV 2017, [[official Matlab code]](https://github.com/jpeyre/unrel).
 
 * `CVPR 2017` - [Detecting Visual Relationships with Deep Relational Networks](https://arxiv.org/abs/1704.03114) - Bo Dai et al, CVPR 2017 oral, [[official caffe code]](https://github.com/doubledaibo/drnet_cvpr2017)
 
