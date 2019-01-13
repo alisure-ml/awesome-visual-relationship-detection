@@ -13,16 +13,19 @@ A curated list of visual relationship detection and related area (e.g. object de
 
 
 ### Visual Relationship Detection
-* [Visual Relationship Prediction via Label Clustering and Incorporation of Depth Information](https://arxiv.org/abs/1809.02945) - Hsuan-Kung Yang et al, ECCV 2018 workshop.
+* `ECCV 2018` - [Visual Relationship Prediction via Label Clustering and Incorporation of Depth Information](https://arxiv.org/abs/1809.02945) - Hsuan-Kung Yang et al, ECCV 2018 workshop.
 
-* [Relation Networks for Object Detection](https://arxiv.org/abs/1711.11575) - Han Hu et al, CVPR 2018 oral paper, [[official MXNet code]](https://github.com/msracver/Relation-Networks-for-Object-Detection), [[pytorch]](https://github.com/heefe92/Relation_Networks-pytorch).
+* `CVPR 2018` - [Relation Networks for Object Detection](https://arxiv.org/abs/1711.11575) - Han Hu et al, CVPR 2018 oral paper, [[official MXNet code]](https://github.com/msracver/Relation-Networks-for-Object-Detection), [[pytorch]](https://github.com/heefe92/Relation_Networks-pytorch).
 
-* [PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel Pairwise R-FCN](https://arxiv.org/abs/1708.01956) - Hanwang Zhang et al. [[offical code]](https://github.com/yjy941124/PPR-FCN)
+* `2017` - [PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel Pairwise R-FCN](https://arxiv.org/abs/1708.01956) - Hanwang Zhang et al. [[offical code]](https://github.com/yjy941124/PPR-FCN)
+
+* `CVPR 2017` - [Detecting Visual Relationships with Deep Relational Networks](https://arxiv.org/abs/1708.01956) - Bo Dai et al, CVPR 2017. [[official caffe code]](https://github.com/doubledaibo/drnet_cvpr2017)
 
 
 ### Scene Graph
-* [Neural Motifs: Scene Graph Parsing with Global Context](https://arxiv.org/abs/1711.06640) - Rowan Zellers et al, CVPR 2018, [[official pytorch=0.3.0 code]](https://github.com/rowanz/neural-motifs).
+* `CVPR 2018` - [Neural Motifs: Scene Graph Parsing with Global Context](https://arxiv.org/abs/1711.06640) - Rowan Zellers et al, CVPR 2018, [[official pytorch=0.3.0 code]](https://github.com/rowanz/neural-motifs).
 
+* `IJCAI 2018` - [Representation Learning for Scene Graph Completion via Jointly Structural and Visual Embedding](https://www.ijcai.org/proceedings/2018/0132.pdf) - Hai Wan et al, IJCAI-18.
 
 
 ## Object Recognition
